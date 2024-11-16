@@ -1,2 +1,1 @@
-# homelab
-K8s
+# lab
